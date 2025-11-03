@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harikrishnan
+# 👋 Hi, I'm Harikrishnan Dhanasekaran
 
 **Full Stack Developer @ Mulecraft India Private Limited**
 
