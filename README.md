@@ -42,13 +42,12 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 
 ## 📈 GitHub Stats
 
-![harikrishnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harikrishnan&show_icons=true&theme=radical)
+![harikrishnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harikrishnan1367709&show_icons=true&theme=radical)
 
 ## 📫 Contact
 
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn]
-- Portfolio: [Your Portfolio URL]
+- Email: harikrishnanmulecraft@gmail.com
+- LinkedIn: https://www.linkedin.com/in/hari-krishnan-500103225/
 
 ---
 
